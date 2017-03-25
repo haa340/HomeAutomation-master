@@ -1,0 +1,1 @@
+The first commit of the H.A.S group.
